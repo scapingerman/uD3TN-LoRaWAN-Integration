@@ -30,7 +30,7 @@ LoRa End Device → Gateway → uD3TN Node A → (disrupted link) → uD3TN Node
 ```
 Downlink Path:
 ```bash
-TTN → uD3TN Node D → (disrupted link) → uD3TN Node C → Gateway → LoRa End Device
+TTN → uD3TN Node C → (disrupted link) → uD3TN Node D → Gateway → LoRa End Device
 ```
 
 # Requirements
