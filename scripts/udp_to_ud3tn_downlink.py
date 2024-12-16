@@ -52,4 +52,3 @@ def packet_callback(packet):
 
 # Listen to UDP traffic without filtering the destination port
 print("Listening for UDP traffic on any port...")
-sniff(filter="udp", prn=packet_callback, store=0)
